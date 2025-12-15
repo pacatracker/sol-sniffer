@@ -214,7 +214,7 @@ def dashboard_text(wallet_rows: List[Tuple[int, str, str, int, Optional[int]]], 
     last_line = last_check or "—"
 
     return (
-        "🌊 *Sol Watch*\n"
+        "🌊 *Sol Sniffer*\n"
         "━━━━━━━━━━━━━━━━━━━━\n"
         "📊 *Dashboard*\n\n"
         f"👛 *Wallets:* {total}\n"
