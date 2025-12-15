@@ -1,1 +1,1 @@
-worker: python Sniffler.py
+worker: python Sniffer.py
